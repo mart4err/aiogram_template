@@ -44,5 +44,6 @@ pip install -r requirements.txt
 ### Windows
 ```
 git clone https://github.com/mart4err/aiogram_template.git
+cd aiogram_template
 pip install -r requirements.txt
 ```
