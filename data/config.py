@@ -1,0 +1,4 @@
+BOT_TOKEN = '7381190911:AAG0nvkUo78Jno1Sk3Ih6M9VKWxU3m-pgbg' # Токен бота
+
+# Список админов
+ADMINS = [6083583477, 123456789]
